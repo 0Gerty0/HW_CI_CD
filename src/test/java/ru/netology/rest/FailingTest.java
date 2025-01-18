@@ -1,8 +1,5 @@
 package ru.netology.rest;
 
-public class FailingTest {
-
-}
 package ru.netology;
 
 import org.junit.jupiter.api.Test;
